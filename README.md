@@ -6,6 +6,7 @@ ADDM ASH
 
 Real time ADDM - 
 
+```
 GRANT ALL ON t to user;
 SET ECHO ON
 SET SERVEROUTPUT ON
@@ -16,3 +17,4 @@ BEGIN
   END LOOP;
 END;
 /
+```
