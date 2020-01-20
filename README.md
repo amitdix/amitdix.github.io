@@ -18,3 +18,8 @@ BEGIN
 END;
 /
 ```
+Cloud watch and SNS (Simple notification service)
+
+VPC - Virtual private cloud - layer of security - To cut off any other connection - Resources have private IP address to communicate with each other
+
+Subnet is inside VPC
