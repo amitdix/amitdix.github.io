@@ -25,3 +25,7 @@ VPC - Virtual private cloud - layer of security - To cut off any other connectio
 Subnet is inside VPC
 
 AWS cloud formation - template to create resources
+
+jps - process id of java apps
+
+jmap -histo <pid> |less - object memory
